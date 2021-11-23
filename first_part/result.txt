@@ -1,0 +1,6 @@
+      Unnamed: 0     CONTRACTOR STATUS     SUM
+5085        5085      Acme, Inc     OK  100500
+4451        4451  Umbrella, Inc     OK    1000
+1348        1348      Acme, Inc     OK     999
+
+Total of all transactions for Umbrella, Inc = 925719
